@@ -298,10 +298,9 @@
 - [Zairan Mir](https://github.com/Mir-Zairan)
 - [suyash nepal](https://github.com/suynep)
 - [Rosellines](https://github.com/Rosellines)
-- [Joshua❤️Prashanth](https://github.com/JoshuaPrashanth)
-- [Ali Linares 🤴🏻](https://github.com/alilinares)
+- [Joshua Prashanth](https://github.com/JoshuaPrashanth)
+- [Ali Linares ](https://github.com/alilinares)
 - [Karthika Suresh](https://github.com/Karthika125)
-- donman420🍃
 - [faithful](https://github.com/f4ithful)
 - [Parv](https://github.com/parv1601)
 - [Ginny](https://github.com/ginnysingh789)
@@ -310,18 +309,10 @@
 - [Final Year Group 9](https://github.com/finalyeargroup9)
 - [Arthur Döhler](https://github.com/herrdohler)
 - [tka](https://github.com/theinkhaaung007)
-- Mrunali
-- Anshuman Semwal
 - [Moresh](https://github.com/Moresh-Mishra)
 - [AnantAgarwal07](https://github.com/AnantAgarwal07)
 - [Diya Pandey](https://github.com/diyapandey)
 - Subikshaa_Sakthivel_IMT2023020 (https://github.com/Subikshaa22)
-
-- doraemon-nobi
-- Lanky_
-- Matt
-- ayfayfayf
-- Farsat
 - [Farman Ali](https://github.com/farman-cloud)
 - [Praneeth](https://github.com/praneethem)
 - [Sam Ruiz](https://github.com/LiebesleidSam)
@@ -336,7 +327,6 @@
 - [Harsh Mohta] (https://github.com/Harsh-Mohta9163)
 - [Prabhjit singh](https://github.com/PrabhBhangu-1)
 - [JacobLeeDavis-vscode-example](https://github.com/JacobLeeDavis)
-- Gautam IMT2023082
 - [Bharathkumar](https://github.com/bharathkumar-creator)
 - [ajs](https://github.com/aboodJS)
 - [Min Ko Oo](https://github.com/mrminko)
